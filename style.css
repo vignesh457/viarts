@@ -9,7 +9,7 @@ body{
 .items{
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr 9fr auto auto auto 5fr;
+    grid-template-rows: 1fr 9fr auto auto auto 1.7fr;
     grid-template-areas: 
     "nav"
     "slider"
