@@ -126,10 +126,10 @@ input[type="text"]
     border-radius: 5px;
     background-image: radial-gradient(circle, #2a81e6 1%, #1e5fb4 100%);
     font-size: large;
-    font-family: cursive;
+    font-family: serif;
 }
 .drawings .fav{
-    font-family: cursive;
+    font-family:serif;
     font-size: x-large;
     position: relative;
     color: #000;
@@ -157,7 +157,7 @@ hr{
     filter: drop-shadow(0mm 1mm 1.5mm rgb(44, 44, 44));
 }
 .youtube .highlights{
-    font-family: cursive;
+    font-family: serif;
     font-size: x-large;
     color: rgb(0, 0, 0);
     padding: 10px;
@@ -198,7 +198,7 @@ hr{
     margin-bottom: 0;
     padding-left: 20vw;
     display: flex;
-    font-family: cursive;
+    font-family: serif;
     border-radius: 0px 30px 0px 0px;
     font-size:36px;
     color: black;
