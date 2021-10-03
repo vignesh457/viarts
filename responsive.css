@@ -1,0 +1,61 @@
+@media screen and (max-width: 1280px){
+    .slider h2{
+    visibility:hidden;
+}
+}
+@media screen and (max-width: 930px) {
+    .contact h3{
+        grid-area: h;
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 0;
+        padding-left: 6vw;
+        display: flex;
+        font-family: cursive;
+        border-radius: 0px 30px 0px 0px;
+        font-size:36px;
+        color: black;
+        background-image: radial-gradient(circle, #53c4f1 10%, #a8ebfc 72%);
+    }
+    .contact .icons{
+        grid-area: i;
+        background-image: radial-gradient(circle, #53c4f1 10%, #a8ebfc 70%);
+        margin-bottom: 100px;
+        margin-top: 0;
+        text-align: left;
+        padding-top: 5vh;
+        padding-left: 3vw;
+        width: auto;
+        height: 18%;
+        border-radius: 0px 0px 30px 0px;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    .contact h3{
+        grid-area: h;
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 0;
+        padding-left: 1vw;
+        display: flex;
+        font-family: cursive;
+        border-radius: 0px 30px 0px 0px;
+        font-size:36px;
+        color: black;
+        background-image: radial-gradient(circle, #53c4f1 10%, #a8ebfc 72%);
+    }
+    .contact .you{
+        filter: drop-shadow(0mm 0mm 1mm rgb(240, 240, 240));
+        padding: 0px;
+    }
+    .contact .instagram{
+        filter: drop-shadow(0mm 0mm 1mm rgb(240, 240, 240));
+        padding: 0px;
+    }
+    .contact .github{
+        filter: drop-shadow(0mm 0mm 1mm rgb(240, 240, 240));
+        padding: 0px;
+    }
+}
+
